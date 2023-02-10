@@ -1,1 +1,1 @@
-# ZAM (Zeek Asset Management)
+# ZAM (Zeek Asset Manager)
